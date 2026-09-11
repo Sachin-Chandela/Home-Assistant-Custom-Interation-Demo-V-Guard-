@@ -1,0 +1,8 @@
+{
+  "domain": "vguard_devices",
+  "name": "VGUARD DEVICES",
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
